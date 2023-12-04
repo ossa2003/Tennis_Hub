@@ -54,7 +54,7 @@ function MyTabs() {
             <Tab.Navigator screenOptions={{ headerShown: false }}>
                 <Tab.Screen name="Map" component={MapScreen}
                     options={{
-                        tabBarLabel: 'Map',
+                        tabBarLabel: 'Mapp',
                         tabBarIcon: ({ color, size }) => (
                             <Fontawesome5 name="map" color={color} size={size} />
                         ),
