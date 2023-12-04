@@ -1,0 +1,22 @@
+{
+  "mahasiswa": [
+    {
+      "id": 3,
+      "nama": "ALIPIA PUTRI RIYANTI",
+      "nim": "21/482577/SV/19970",
+      "kelas": "B",
+      "jeniskelamin": "Perempuan",
+      "icon": "cat",
+      "color": "#D0BFFF"
+    },
+    {
+      "id": 2,
+      "nama": "ossa",
+      "nim": "21/480118/SV/19573",
+      "kelas": "A",
+      "jeniskelamin": "Laki-laki",
+      "icon": "volleyball-ball",
+      "color": "#FFC436"
+    }
+  ]
+}
